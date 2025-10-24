@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内免费使用指南（支持 GPT-5、GPT-4o，无需翻墙）【10月最新更新】
 
-> 更新时间： 2025/10/21
+> 更新时间： 2025/10/24
 
 这篇终极指南将为您解决所有关于 [**ChatGPT**](https://ai.lanjingchat.com/) 的疑问。
 
@@ -121,4 +121,4 @@ ChatGPT 镜像网站：[https://ai.lanjingai.org/](https://ai.lanjingai.org/)
 
 ---
 
-**最后更新时间**: 2025-10-22
+**最后更新时间**: 2025-10-24
